@@ -1,8 +1,9 @@
 # Admin Dashboard
 
 This project is an **Admin Dashboard interface** built as part of the curriculum from [The Odin Project](https://www.theodinproject.com/).
-
 The main goal of this project is to practice **CSS Grid** by creating a complex and structured layout without using any frameworks.
+
+A preview is available here: https://yvan-dumas.github.io/Odin-Admin-Dashboard/
 
 ---
 
