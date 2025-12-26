@@ -1,6 +1,40 @@
-# Odin-Admin-Dashboard
-Admin Dashboard for the Odin Project
+# Admin Dashboard
 
+This project is an **Admin Dashboard interface** built as part of the curriculum from [The Odin Project](https://www.theodinproject.com/).
 
-Illustration of <a href="https://unsplash.com/fr/@brenortiz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Brenda Carolina Ortiz Diaz</a> from <a href="https://unsplash.com/fr/illustrations/un-chat-de-dessin-anime-grincheux-est-assis-DEPoWtdRevo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-      
+The main goal of this project is to practice **CSS Grid** by creating a complex and structured layout without using any frameworks.
+
+---
+
+## 🖥️ Overview
+
+The application includes:
+- A **sidebar navigation**
+- A **header** with search, notifications, and action buttons
+- A main content area displaying:
+  - Projects
+  - Announcements
+  - Trending users
+
+The design is inspired by a modern admin dashboard layout.
+
+---
+
+## 🛠️ Built With
+
+- HTML5
+- CSS3
+- **CSS Grid**
+- Bootstrap Icons
+
+---
+
+## 📁 Project Structure
+
+```text
+├── index.html
+├── styles.css
+├── assets/
+│   ├── image/
+│   └── bootstrap-icons/
+└── README.md
